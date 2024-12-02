@@ -1,0 +1,5 @@
+Game 19: Algorithm: A*, Play Time: 90.13 seconds, Score: 75
+Game 20: Algorithm: A*, Play Time: 97.19 seconds, Score: 77
+Game 21: Algorithm: A*, Play Time: 120.85 seconds, Score: 96
+Game 22: Algorithm: A*, Play Time: 86.73 seconds, Score: 63
+

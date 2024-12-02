@@ -1,0 +1,4 @@
+Play 1, Algorithm: BFS, Score: 83, Time: 98 s
+Play 2, Algorithm: BFS, Score: 103, Time: 133 s
+Play 3, Algorithm: BFS, Score: 84, Time: 101 s
+Play 4, Algorithm: BFS, Score: 91, Time: 120 s

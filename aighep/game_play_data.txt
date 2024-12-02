@@ -1,0 +1,4 @@
+Play 1, Algorithm: Hill Climbing, Score: 42, Time: 58 s
+Play 2, Algorithm: Hill Climbing, Score: 40, Time: 49 s
+Play 3, Algorithm: Hill Climbing, Score: 20, Time: 23 s
+Play 4, Algorithm: Hill Climbing, Score: 26, Time: 30 s
